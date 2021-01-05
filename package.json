@@ -1,0 +1,19 @@
+{
+  "name": "api_rest_justify",
+  "version": "1.0.0",
+  "description": "REST API which justifies a text passed as a parameter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristidebamenou/API_REST_justify.git"
+  },
+  "author": "Aristide Bamenou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aristidebamenou/API_REST_justify/issues"
+  },
+  "homepage": "https://github.com/aristidebamenou/API_REST_justify#readme"
+}
